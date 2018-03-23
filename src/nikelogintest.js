@@ -9,7 +9,7 @@ class Login extends React.Component{
       this.state = {
         payload1: {
               "username": "kuntao1220@gmail.com",
-                "password": "appleID123",
+                "password": "******",
                   "keepMeLoggedIn": true,
                     "client_id": "PbCREuPr3iaFANEDjtiEzXooFl7mXGQ7",
                 "ux_id": "com.nike.commerce.snkrs.web",
